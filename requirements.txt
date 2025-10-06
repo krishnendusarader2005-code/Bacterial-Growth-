@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+plotly
+fpdf
+qrcode
+scipy
+Pillow
